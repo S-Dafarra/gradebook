@@ -5,9 +5,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_cartesian-interface-pattacini](https://github.com/icub-training/tutorial_cartesian-interface-pattacini) | :heavy_check_mark: | **1** |
-| [assignment_make-it-roll-pattacini](https://github.com/icub-training/assignment_make-it-roll-pattacini) | :x: | **0** |
+| [assignment_make-it-roll-pattacini](https://github.com/icub-training/assignment_make-it-roll-pattacini) | :heavy_check_mark: | **7** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
 
 ---
 
