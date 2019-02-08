@@ -20,11 +20,6 @@
             "score": 1
         },
         {
-            "name": "tutorial_yarp-opencv",
-            "url": "https://github.com/vvv-school/tutorial_yarp-opencv.git",
-            "score": 1
-        },
-        {
             "name": "tutorial_joint-interface",
             "url": "https://github.com/vvv-school/tutorial_joint-interface.git",
             "score": 1
