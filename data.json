@@ -5,6 +5,21 @@
             "score": 1
         },
         {
+            "name": "tutorial_yarpmanager",
+            "url": "https://github.com/vvv-school/tutorial_yarpmanager.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_RFModule-simple",
+            "url": "https://github.com/vvv-school/tutorial_RFModule-simple.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_yarp-producer-consumer",
+            "url": "https://github.com/vvv-school/tutorial_yarp-producer-consumer.git",
+            "score": 1
+        },
+        {
             "name": "tutorial_yarp-opencv",
             "url": "https://github.com/vvv-school/tutorial_yarp-opencv.git",
             "score": 1
