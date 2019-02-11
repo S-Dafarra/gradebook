@@ -31,8 +31,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-ra3vld](https://github.com/icub-training/tutorial_yarp-basics-ra3vld) | :heavy_check_mark: | **1** |
+| [tutorial_yarp-producer-consumer-ra3vld](https://github.com/icub-training/tutorial_yarp-producer-consumer-ra3vld) | :heavy_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
