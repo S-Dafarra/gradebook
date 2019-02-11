@@ -5,6 +5,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-svyatoslavdm](https://github.com/icub-training/tutorial_yarp-basics-svyatoslavdm) | :heavy_check_mark: | **1** |
+| [assignment_yarp-find-rgb-svyatoslavdm](https://github.com/icub-training/assignment_yarp-find-rgb-svyatoslavdm) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
