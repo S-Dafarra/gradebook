@@ -52,9 +52,9 @@
 | [tutorial_yarp-basics-alexpostnikov](https://github.com/icub-training/tutorial_yarp-basics-alexpostnikov) | :heavy_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-alexpostnikov](https://github.com/icub-training/tutorial_yarp-producer-consumer-alexpostnikov) | :heavy_check_mark: | **1** |
 | [tutorial_RFModule-simple-alexpostnikov](https://github.com/icub-training/tutorial_RFModule-simple-alexpostnikov) | :heavy_check_mark: | **1** |
-| [assignment_yarp-find-rgb-alexpostnikov](https://github.com/icub-training/assignment_yarp-find-rgb-alexpostnikov) | :x: | **0** |
+| [assignment_yarp-find-rgb-alexpostnikov](https://github.com/icub-training/assignment_yarp-find-rgb-alexpostnikov) | :heavy_check_mark: | **15** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-18-brightgreen.svg?style=flat-square)
 
 ---
 
