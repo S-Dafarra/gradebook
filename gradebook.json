@@ -71,7 +71,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_yarp-find-rgb-alexpostnikov",
+        "status": ":x:",
+        "last_commit_date": "2019-01-11 10:48:17 UTC",
+        "score": 5
+      }
+    ],
     "score": 2
   },
   {
