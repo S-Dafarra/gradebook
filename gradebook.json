@@ -69,6 +69,11 @@
         "name": "tutorial_yarp-producer-consumer-ra3vld",
         "status": ":heavy_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_RFModule-simple-ra3vld",
+        "status": ":heavy_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -79,7 +84,7 @@
         "score": 5
       }
     ],
-    "score": 2
+    "score": 3
   },
   {
     "username": "alexpostnikov",
