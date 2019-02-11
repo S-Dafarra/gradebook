@@ -65,6 +65,7 @@
 | [tutorial_yarp-producer-consumer-iskanderuse](https://github.com/icub-training/tutorial_yarp-producer-consumer-iskanderuse) | :heavy_check_mark: | **1** |
 | [tutorial_RFModule-simple-iskanderuse](https://github.com/icub-training/tutorial_RFModule-simple-iskanderuse) | :heavy_check_mark: | **1** |
 | [tutorial_yarpmanager-iskanderuse](https://github.com/icub-training/tutorial_yarpmanager-iskanderuse) | :heavy_check_mark: | **1** |
+| [assignment_yarp-find-rgb-iskanderuse](https://github.com/icub-training/assignment_yarp-find-rgb-iskanderuse) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 

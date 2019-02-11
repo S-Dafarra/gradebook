@@ -144,7 +144,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_yarp-find-rgb-iskanderuse",
+        "status": ":x:",
+        "last_commit_date": "",
+        "score": 5
+      }
+    ],
     "score": 4
   },
   {
