@@ -20,8 +20,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-julijenv](https://github.com/icub-training/tutorial_yarp-basics-julijenv) | :heavy_check_mark: | **1** |
+| [tutorial_yarpmanager-julijenv](https://github.com/icub-training/tutorial_yarpmanager-julijenv) | :heavy_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
