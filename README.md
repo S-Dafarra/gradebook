@@ -103,6 +103,7 @@
 | [tutorial_cartesian-interface-Alexis00](https://github.com/icub-training/tutorial_cartesian-interface-Alexis00) | :heavy_check_mark: | **1** |
 | [tutorial_gaze-interface-Alexis00](https://github.com/icub-training/tutorial_gaze-interface-Alexis00) | :heavy_check_mark: | **1** |
 | [assignment_make-it-roll-Alexis00](https://github.com/icub-training/assignment_make-it-roll-Alexis00) | :x: | **0** |
+| [assignment_closest-blob-Alexis00](https://github.com/icub-training/assignment_closest-blob-Alexis00) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
