@@ -46,9 +46,10 @@
 | [tutorial_yarpmanager-ra3vld](https://github.com/icub-training/tutorial_yarpmanager-ra3vld) | :heavy_check_mark: | **1** |
 | [tutorial_joint-interface-ra3vld](https://github.com/icub-training/tutorial_joint-interface-ra3vld) | :heavy_check_mark: | **1** |
 | [tutorial_cartesian-interface-ra3vld](https://github.com/icub-training/tutorial_cartesian-interface-ra3vld) | :heavy_check_mark: | **1** |
+| [tutorial_gaze-interface-ra3vld](https://github.com/icub-training/tutorial_gaze-interface-ra3vld) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-ra3vld](https://github.com/icub-training/assignment_yarp-find-rgb-ra3vld) | :heavy_check_mark: | **15** |
 
-![total score](https://img.shields.io/badge/total_score-21-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-22-brightgreen.svg?style=flat-square)
 
 ---
 
