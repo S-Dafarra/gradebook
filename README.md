@@ -71,6 +71,7 @@
 | [tutorial_gaze-interface-alexpostnikov](https://github.com/icub-training/tutorial_gaze-interface-alexpostnikov) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-alexpostnikov](https://github.com/icub-training/assignment_yarp-find-rgb-alexpostnikov) | :heavy_check_mark: | **15** |
 | [assignment_make-it-roll-alexpostnikov](https://github.com/icub-training/assignment_make-it-roll-alexpostnikov) | :x: | **0** |
+| [assignment_closest-blob-alexpostnikov](https://github.com/icub-training/assignment_closest-blob-alexpostnikov) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-21-brightgreen.svg?style=flat-square)
 
