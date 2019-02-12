@@ -8,9 +8,10 @@
 | [tutorial_RFModule-simple-svyatoslavdm](https://github.com/icub-training/tutorial_RFModule-simple-svyatoslavdm) | :heavy_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-svyatoslavdm](https://github.com/icub-training/tutorial_yarp-producer-consumer-svyatoslavdm) | :heavy_check_mark: | **1** |
 | [tutorial_yarpmanager-svyatoslavdm](https://github.com/icub-training/tutorial_yarpmanager-svyatoslavdm) | :heavy_check_mark: | **1** |
+| [tutorial_joint-interface-svyatoslavdm](https://github.com/icub-training/tutorial_joint-interface-svyatoslavdm) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-svyatoslavdm](https://github.com/icub-training/assignment_yarp-find-rgb-svyatoslavdm) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
