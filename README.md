@@ -52,6 +52,7 @@
 | [tutorial_gaze-interface-ra3vld](https://github.com/icub-training/tutorial_gaze-interface-ra3vld) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-ra3vld](https://github.com/icub-training/assignment_yarp-find-rgb-ra3vld) | :heavy_check_mark: | **15** |
 | [assignment_make-it-roll-ra3vld](https://github.com/icub-training/assignment_make-it-roll-ra3vld) | :x: | **0** |
+| [assignment_closest-blob-ra3vld](https://github.com/icub-training/assignment_closest-blob-ra3vld) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-22-brightgreen.svg?style=flat-square)
 
