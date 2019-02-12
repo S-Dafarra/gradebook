@@ -31,6 +31,7 @@
 | [tutorial_cartesian-interface-julijenv](https://github.com/icub-training/tutorial_cartesian-interface-julijenv) | :heavy_check_mark: | **1** |
 | [tutorial_gaze-interface-julijenv](https://github.com/icub-training/tutorial_gaze-interface-julijenv) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-julijenv](https://github.com/icub-training/assignment_yarp-find-rgb-julijenv) | :x: | **0** |
+| [assignment_make-it-roll-julijenv](https://github.com/icub-training/assignment_make-it-roll-julijenv) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
