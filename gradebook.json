@@ -269,7 +269,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_make-it-roll-Alexis00",
+        "status": ":x:",
+        "last_commit_date": "2019-01-11 10:23:11 UTC",
+        "score": 5
+      }
+    ],
     "score": 4
   },
   {
