@@ -26,10 +26,9 @@
 | [tutorial_RFModule-simple-julijenv](https://github.com/icub-training/tutorial_RFModule-simple-julijenv) | :heavy_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-julijenv](https://github.com/icub-training/tutorial_yarp-producer-consumer-julijenv) | :heavy_check_mark: | **1** |
 | [tutorial_joint-interface-julijenv](https://github.com/icub-training/tutorial_joint-interface-julijenv) | :heavy_check_mark: | **1** |
-| [tutorial_cartesian-interface-julijenv](https://github.com/icub-training/tutorial_cartesian-interface-julijenv) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-julijenv](https://github.com/icub-training/assignment_yarp-find-rgb-julijenv) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
