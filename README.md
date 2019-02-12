@@ -90,9 +90,8 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-Alexis00](https://github.com/icub-training/tutorial_yarp-basics-Alexis00) | :heavy_check_mark: | **1** |
 | [tutorial_joint-interface-Alexis00](https://github.com/icub-training/tutorial_joint-interface-Alexis00) | :heavy_check_mark: | **1** |
-| [tutorial_cartesian-interface-Alexis00](https://github.com/icub-training/tutorial_cartesian-interface-Alexis00) | :heavy_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 

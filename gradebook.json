@@ -226,15 +226,10 @@
         "name": "tutorial_joint-interface-Alexis00",
         "status": ":heavy_check_mark:",
         "score": 1
-      },
-      {
-        "name": "tutorial_cartesian-interface-Alexis00",
-        "status": ":heavy_check_mark:",
-        "score": 1
       }
     ],
     "assignments": [],
-    "score": 3
+    "score": 2
   },
   {
     "username": "Olvar-ag",
