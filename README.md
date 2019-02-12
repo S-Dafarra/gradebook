@@ -87,6 +87,7 @@
 | [tutorial_cartesian-interface-iskanderuse](https://github.com/icub-training/tutorial_cartesian-interface-iskanderuse) | :heavy_check_mark: | **1** |
 | [tutorial_gaze-interface-iskanderuse](https://github.com/icub-training/tutorial_gaze-interface-iskanderuse) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-iskanderuse](https://github.com/icub-training/assignment_yarp-find-rgb-iskanderuse) | :heavy_check_mark: | **15** |
+| [assignment_make-it-roll-iskanderuse](https://github.com/icub-training/assignment_make-it-roll-iskanderuse) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-22-brightgreen.svg?style=flat-square)
 
