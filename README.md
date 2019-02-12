@@ -31,11 +31,11 @@
 | [tutorial_joint-interface-julijenv](https://github.com/icub-training/tutorial_joint-interface-julijenv) | :heavy_check_mark: | **1** |
 | [tutorial_cartesian-interface-julijenv](https://github.com/icub-training/tutorial_cartesian-interface-julijenv) | :heavy_check_mark: | **1** |
 | [tutorial_gaze-interface-julijenv](https://github.com/icub-training/tutorial_gaze-interface-julijenv) | :heavy_check_mark: | **1** |
-| [assignment_yarp-find-rgb-julijenv](https://github.com/icub-training/assignment_yarp-find-rgb-julijenv) | :x: | **0** |
+| [assignment_yarp-find-rgb-julijenv](https://github.com/icub-training/assignment_yarp-find-rgb-julijenv) | :heavy_check_mark: | **10** |
 | [assignment_make-it-roll-julijenv](https://github.com/icub-training/assignment_make-it-roll-julijenv) | :x: | **0** |
 | [assignment_closest-blob-julijenv](https://github.com/icub-training/assignment_closest-blob-julijenv) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
 ---
 

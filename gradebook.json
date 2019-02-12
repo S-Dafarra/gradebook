@@ -102,9 +102,9 @@
     "assignments": [
       {
         "name": "assignment_yarp-find-rgb-julijenv",
-        "status": ":x:",
-        "last_commit_date": "2019-01-11 10:48:17 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2019-02-12 21:12:01 UTC",
+        "score": 10
       },
       {
         "name": "assignment_make-it-roll-julijenv",
@@ -119,7 +119,7 @@
         "score": 5
       }
     ],
-    "score": 7
+    "score": 17
   },
   {
     "username": "ra3vld",
