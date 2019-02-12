@@ -157,12 +157,12 @@
     "assignments": [
       {
         "name": "assignment_yarp-find-rgb-iskanderuse",
-        "status": ":x:",
-        "last_commit_date": "2019-01-11 10:48:17 UTC",
-        "score": 5
+        "status": ":heavy_check_mark:",
+        "last_commit_date": "2019-02-11 23:08:42 UTC",
+        "score": 15
       }
     ],
-    "score": 4
+    "score": 19
   },
   {
     "username": "Alexis00",
