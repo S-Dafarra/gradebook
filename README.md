@@ -111,9 +111,10 @@
 | [tutorial_yarp-producer-consumer-Olvar-ag](https://github.com/icub-training/tutorial_yarp-producer-consumer-Olvar-ag) | :heavy_check_mark: | **1** |
 | [tutorial_RFModule-simple-Olvar-ag](https://github.com/icub-training/tutorial_RFModule-simple-Olvar-ag) | :heavy_check_mark: | **1** |
 | [tutorial_joint-interface-Olvar-ag](https://github.com/icub-training/tutorial_joint-interface-Olvar-ag) | :heavy_check_mark: | **1** |
+| [tutorial_gaze-interface-Olvar-ag](https://github.com/icub-training/tutorial_gaze-interface-Olvar-ag) | :heavy_check_mark: | **1** |
 | [assignment_yarp-find-rgb-Olvar-ag](https://github.com/icub-training/assignment_yarp-find-rgb-Olvar-ag) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 

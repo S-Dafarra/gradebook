@@ -288,6 +288,11 @@
         "name": "tutorial_joint-interface-Olvar-ag",
         "status": ":heavy_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_gaze-interface-Olvar-ag",
+        "status": ":heavy_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -298,6 +303,6 @@
         "score": 5
       }
     ],
-    "score": 4
+    "score": 5
   }
 ]
