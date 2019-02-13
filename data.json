@@ -33,6 +33,11 @@
             "name": "tutorial_gaze-interface",
             "url": "https://github.com/vvv-school/tutorial_gaze-interface.git",
             "score": 1
+        },
+        {
+            "name": "tutorial_impedance-control",
+            "url": "https://github.com/vvv-school/tutorial_impedance-control.git",
+            "score": 1
         }
     ],
     "assignments": [{
